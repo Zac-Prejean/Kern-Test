@@ -1,8 +1,8 @@
 import re
 from PIL import Image, ImageDraw, ImageFont  
   
-font_path = 'C:/Users/ZachP/Desktop/PrintLayoutLab - Jewelry/GUIT/fonts_JEW/Fairy.ttf'  
-vfm_path = 'C:/Users/ZachP/Desktop/PrintLayoutLab - Jewelry/GUIT/fonts_JEW/Fairy.vfm'  
+font_path = 'C:/Users/User/Desktop/Kern-Test/GUIT/fonts_JEW/Fairy.ttf'  
+vfm_path = 'C:/Users/User/Desktop/Kern-Test/GUIT/fonts_JEW/Fairy.vfm'  
 
 # unicodes 
 font_to_uni = {  
